@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.contacto,
+.educacion,
+.experiencia,
+.habilidades {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+ul {
+    list-style-type: disc;
+}
+.imagen-de-perfil {
+    max-width: 300px; /* Ajusta este valor según tus preferencias */
+    height: auto; /* Mantiene la proporción original de la imagen */
+}
